@@ -278,7 +278,7 @@ var controller = (function(budgetCtrl, UICtrl) {
 
             // 3. Update and show the new budget
             updateBudget();
-            
+
         }
 
     };
